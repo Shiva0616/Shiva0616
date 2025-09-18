@@ -1,16 +1,61 @@
-## Hi there 👋
+# Daniel Alejandro Castañeda  
 
-<!--
-**Shiva0616/Shiva0616** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Ingeniero Electrónico | Full Stack Developer en formación  
 
-Here are some ideas to get you started:
+Soy **Ingeniero Electrónico** con experiencia en **sistemas embebidos, IoT y automatización**, actualmente impulsando mi desarrollo en el área de **software Full Stack**.  
+Mi objetivo es unir la precisión de la ingeniería con la creatividad del código para crear soluciones innovadoras y escalables.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Sobre mí  
+
+- Experiencia en **automatización industrial** y **sistemas embebidos**.  
+- En formación como **Full Stack Developer** (Java + Angular/React).  
+- Ubicación: Medellín, Antioquia – Colombia.  
+- Disponible para oportunidades presenciales o remotas.  
+
+---
+
+## Stack Tecnológico  
+
+**Backend**: Java, Spring Boot, Node.js, MySQL  
+**Frontend**: Angular JS, React JS, TypeScript, JavaScript, Tailwind CSS, Boostrap  
+**Sistemas Embebidos & IoT**: C, C++, Arduino, Raspberry Pi  
+**Herramientas**: Git, GitHub, Docker, VS Code  
+
+---
+
+## Proyectos Destacados  
+
+- **Sistema de Automatización de Cultivos** – ESP32 + IoT + control automático  
+- **Control PID de Balancín** – Algoritmo de control en tiempo real  
+- **Domótica con PLC Siemens** – Automatización residencial/industrial  
+- **Ecualizador Digital** – Procesamiento de señales con Matlab y C++  
+
+---
+
+## Actualmente Aprendiendo  
+
+- Spring Boot avanzado y microservicios  
+- Angular 16+ y arquitectura de componentes  
+- DevOps con Docker y CI/CD  
+- Cloud computing con AWS  
+
+---
+
+## Objetivos 2025  
+
+- Desarrollar más de **12 proyectos Full Stack**.  
+- Contribuir en **proyectos open source**.    
+- Consolidarme como **Full Stack Developer**.  
+
+---
+
+## Contacto  
+
+- **Email**: danysuarez1606@gmail.com  
+- **LinkedIn**: [linkedin.com/in/daniel-castaneda-dev](https://linkedin.com/in/daniel-castaneda-dev)  
+- **WhatsApp**: [+57 301 388 4905](https://wa.me/573013884905)  
+
+---
+
